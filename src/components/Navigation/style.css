@@ -1,3 +1,14 @@
+.icon-link {
+  width: 44px;
+  height: 44px;
+  border: 1px solid #c3d4e966;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #596780 !important;
+}
+
 .notification-dot {
   width: 6px;
   height: 6px;

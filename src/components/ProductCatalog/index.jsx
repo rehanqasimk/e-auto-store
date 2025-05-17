@@ -1,5 +1,5 @@
 import { Button, Col, Container, Row } from "react-bootstrap";
-import { popularCars, recommendationCars } from "../data/cars";
+import { popularCars, recommendationCars } from "../../data/cars";
 import CarCard from "../ProductCard";
 
 export default function CarCatalog() {

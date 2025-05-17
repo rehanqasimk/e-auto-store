@@ -21,7 +21,7 @@ function Footer() {
       <Container>
         <Row className="mb-5">
           <Col lg={4} className="mb-4 mb-lg-0">
-            <h2 className="h4 text-primary mb-4">MORENT</h2>
+            <h2 className="h4 text-primary mb-4">LOGO</h2>
             <p className="text-muted">
               Our vision is to provide convenience and help increase your sales
               business.
