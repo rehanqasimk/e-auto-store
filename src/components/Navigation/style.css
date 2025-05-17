@@ -1,0 +1,34 @@
+.notification-dot {
+  width: 6px;
+  height: 6px;
+  background: #ff4423;
+  border-radius: 50%;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+.search-wrapper {
+  max-width: 492px;
+  width: 100%;
+}
+
+.search-icon {
+  left: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #596780;
+}
+
+.user-avatar {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.user-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
